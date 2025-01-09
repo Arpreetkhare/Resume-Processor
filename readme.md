@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    https://github.com/Arpreetkhare/Resume-Processor.git
     ```
 
 2. Install dependencies:
